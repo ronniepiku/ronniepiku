@@ -3,10 +3,10 @@
 - 🌱 I’m currently learning how to use sentiment analysis to create a trading bot!
 - 💞️ I’m looking to collaborate on any cool and exciting projects related to AI and machine learning
 - 📫 You can reach me on:
-  
+
+      ePortfolio: www.ronaldpiku.com
       Email: ronniepiku1@hotmail.com
       LinkedIn: Ronald Piku
-      ePortfolio: www.ronaldpiku.com
 
 <!---
 ronniepiku/ronniepiku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
