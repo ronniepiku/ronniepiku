@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ronniepiku
-- 👀 I’m interested in machine learning and robotics.
+- 👀 I’m interested in machine learning, data science and robotics.
 - 🌱 I’m currently learning how to use sentiment analysis to create a trading bot!
 - 💞️ I’m looking to collaborate on any cool and exciting projects related to AI and machine learning
 - 📫 You can reach me on:
