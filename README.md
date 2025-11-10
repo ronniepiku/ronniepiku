@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @ronniepiku
-- 👀 I’m interested in machine learning, data science and robotics.
-- 🌱 I’m currently learning how to use computer vision to carry out event classification and indexing!
+- 👀 I’m interested in machine learning, data science and vehicle optimisation.
+- 🌱 I’m currently learning how to use Machine Learning to develop physical tyre models!
 - 💞️ I’m looking to contribute to cutting-edge Machine Learning projects.
 - 📫 You can reach me on:
 
-      ePortfolio: www.ronaldpiku.com
       Email: rpiku@outlook.com
       LinkedIn: https://www.linkedin.com/in/ronald-piku
 
