@@ -13,7 +13,7 @@ Currently working in Formula 1, building AI-driven workflows and analytics tools
 ## Interests
 - Large Language Models (LLMs)
 - Computer Vision
-- Retrieval-Augmented Generation (RAG)
+- Agentic Workflows
 - ML infrastructure & deployment
 - Data visualisation
 - Applied AI for science and research
